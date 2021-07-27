@@ -8,11 +8,7 @@ usage：python3 birth.py -m <mode\> <start-date\><end-date\>
 
 ***It also applies to leap years**
 
-***遇到闰年也适用**
-
-
-
-
+***遇到闰年也适用**<br><br><br>
 
 # Notice注意
 
@@ -23,11 +19,7 @@ usage：python3 birth.py -m <mode\> <start-date\><end-date\>
 ##### import：
 
 sys
-getopt
-
-
-
-
+getopt<br><br><br>
 
 # Help帮助：
 
