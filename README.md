@@ -1,3 +1,5 @@
+# Description说明：
+
 birth.py文件可以生成一个生日字典。5个模式可以生成不同风格的字典。
 
 usage：python3 birth.py -m <mode\> <start-date\><end-date\>
@@ -8,18 +10,22 @@ usage：python3 birth.py -m <mode\> <start-date\><end-date\>
 
 ***遇到闰年也适用**
 
-------
 
-## need你需要：
+
+
+
+# Notice注意
+
+##### need你需要：
 
 ​	python3
 
+##### import：
+
+sys
+getopt
 
 
-## model用到的模块：
-
-​	import sys
-​	import getopt
 
 
 
