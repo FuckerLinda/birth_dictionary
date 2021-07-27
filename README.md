@@ -1,3 +1,15 @@
+birth.py文件可以生成一个生日字典。5个模式可以生成不同风格的字典。
+
+usage：python3 birth.py -m <mode\> <start-date\><end-date\>
+
+用法：python3 birth.py -m [模式] [起始日期] [结束日期]
+
+***It also applies to leap years**
+
+***遇到闰年也适用**
+
+------
+
 ## need你需要：
 
 ​	python3
@@ -32,14 +44,3 @@ x=5, output YYYY/M/D
 
 for example, use `python3 birth.py -m2 20000102 20200102` and it output a dictionary named "birth.txt". It ranges from 2000-01-02 to 2020-01-02
 
-------
-
-birth.py文件可以生成一个生日字典。5个模式可以生成不同风格的字典。
-
-usage：python3 birth.py -m <mode\> <start-date\><end-date\>
-
-用法：python3 birth.py -m [模式] [起始日期] [结束日期]
-
-***It also applies to leap years**
-
-***遇到闰年也适用**
