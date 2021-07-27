@@ -42,7 +42,7 @@ def write(f,year,mon,day,mod):
             f.write("/")
         f.write(str(day))
 
-    f.write("\n")
+    f.write("\r\n")
 
 
 
